@@ -1,0 +1,89 @@
+   16  git clone git@github.com:js-808/FamilyNetworksResearch.git
+   28  git clone https://github.com/js-808/FamilyNetworksResearch.git
+   52  git clone https://github.com/js-808/FamilyNetworksResearch.git
+   53  git init
+   54  git remote add origin https://github.com/mokuda2/FamilyNetworksResearch-1.git
+   55  git config --local user.name "Michael Okuda"
+   56  git config --local user.email "michael.okuda99@gmail.com"
+   57  git clone git@github.com:mokuda2/FamilyNetworksResearch-1.git
+   61  rm .git/
+   62  rddir .git/
+   63  rmdir .git/
+   64  git clone git@github.com/FamilyNetworksResearch-1.git
+   65  git clone git@github.com:mokuda2/FamilyNetworksResearch-1.git
+   68  git clone git@github.com:mokuda2/FamilyNetworksResearch-1.git
+   71  git clone git@github.com:mokuda2/FamilyNetworksResearch-1.git
+   82  git branch
+   83  git checkout develop
+   84  git checkout master
+   85  git pull upstream master
+   86  git pull origin master
+   87  git remote add upstream git@github.com:js-808/FamilyNetworksResearch.git
+   88  git branch
+   89  git pull upstream master
+   90  git branch
+   91  man git
+   92  git log
+   99  git init
+  100  git remote add origin git@github.com:koltonrb/new_family_network_research.git
+  101  git config --local user.name "mokuda2"
+  102  git config --local user.email "michael.okuda99@gmail.com"
+  103  git clone git@github.com:koltonrb/new_family_network_research.git
+  104  git pull
+  105  git branch
+  106  git checkout master
+  107  git pull
+  108  git checkout -b michael
+  109  git add family_model.py 
+  110  git commit -m "updated family_model.py added a test comment"
+  111  git push origin michael
+  112  git push
+  113  git status
+  114  git config --list
+  115  git remote add upstream git@github.com:koltonrb/new_family_network_research.git
+  116  git config --list
+  117  git pull
+  118  git pull upstream michael 
+  119  git fetch 
+  120  git branch
+  121  git status 
+  122  git add family_model.py 
+  123  git commit -m 'testing' 
+  124  git add family_model.py 
+  125  git commit -m 'testing' 
+  126  git push origin michael 
+  127  git add family_model.py \
+  128  git add family_model.py
+  129  git commit -m "updated family_model.py 3 comment"
+  130  git push origin michael
+  131  git checkout master
+  132  git pull
+  133  git checkout -b michael
+  134  git branch michael
+  135  git switch -c michael
+  136  git checkout michael
+  137  git add family_model.py 
+  138  git commit -m "family_model.py uncommented code to run through iterations"
+  139  git push origin michael
+  142  git checkout master
+  143  git checkout master
+  144  git pull
+  145  git checkout michael
+  146  git add family_model.py 
+  147  git commit -m "family_model.py added time, trying to figure out a bug"
+  148  git push origin michael
+  149  git checkout master
+  150  git pull
+  151  git checkout michael
+  152  git add -a
+  153  git add -A
+  154  git commit -m "family_model.py fixed error by getting the last number in the list, trying to figure out why other errors are being raised for certain datasets"
+  155  git push origin michael
+  158  rm -rf .git
+  160  git status
+  161  mkdir gittest
+  162  cd gittest/
+  163  git init
+  164  git --version
+  169  git init
+  171  history | grep "git" > git_commands.txt
