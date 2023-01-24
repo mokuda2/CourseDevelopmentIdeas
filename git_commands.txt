@@ -87,3 +87,26 @@
   164  git --version
   169  git init
   171  history | grep "git" > git_commands.txt
+  173  git status
+  177  git status
+  178  git commit -m "create course outline files"
+  179  git add .
+  180  git commit -m "create course outline files"
+  181  git status
+  182  git add statistics.txt 
+  183  git commit -m "add statistics curriculum ideas"
+  184  git add history.txt 
+  185  git commit -m "add history curriculum ideas"
+  187  git add statistics.txt 
+  188  git commit -m "added programming classes"
+  189  git add history.txt 
+  190  git commit -m "added Asian countries"
+  192  git status
+  195  git status
+  197  git log
+  198  git log --oneline
+  199  git status
+  200  git add .gitignore
+  201  git commit -m "Add .gitignore file"
+  202  git status
+  206  history | grep 'git' > git_commands.txt
