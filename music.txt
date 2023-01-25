@@ -1,2 +1,5 @@
-This is a new file with music curriculum
-Music branch history text
+Ideas:
+
+- Sharps
+- Flats
+- Naturals
